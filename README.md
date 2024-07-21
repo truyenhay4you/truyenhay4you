@@ -8,7 +8,6 @@
   To solve this problem, audiobook applications were born. 
   Youtube is one of the largest story listening channels today, but there are also many constraints according to their policies, Youtube also has a limitation of being unreadable.
   
-  So do you want a quality channel that can help you read and listen at the same time?
 
 <!---
 truyenhay4you/truyenhay4you is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
