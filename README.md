@@ -1,13 +1,14 @@
 👋 Hi, this is @truyenhay4you
 
 ⚡ Problem Statement: 
-  Truyện là một món ăn tinh thần, mọi người thường đọc truyện bằng sách hoặc website hoặc trên những thiết bị điện tử  như laptop, phone, ebook…
+  Stories are a spiritual food, people often read stories in books or websites or on electronic devices such as laptops, phones, ebooks...
   
-  Nhưng nếu đọc truyện trong một thời gian dài thì dẫn đến mắt sẽ bị mỏi mệt và cũng không thể tập trung vào công việc khác được, không được thuận tiện, ngoài ra bạn phải có màn hình đủ lớn để có thể đọc rõ. 
-  Để giải quyết vấn đề này thì những ứng dụng sách nói đã ra đời. 
-  Youtube là một trong những kênh nghe truyện lớn nhất hiện nay, nhưng cũng có nhiều ràng buột theo chính sách của họ, Youtube cũng có một hạn chế là không thể đọc được.
+  But if you read stories for a long time, your eyes will get tired as well as you won't be able to focus on other tasks. 
+  It's not convenient. In addition, you must have a screen large enough to read clearly. 
+  To solve this problem, audiobook applications were born. 
+  Youtube is one of the largest story listening channels today, but there are also many constraints according to their policies, Youtube also has a limitation of being unreadable.
   
-  Vậy bạn có muốn có một kênh chất lượng mà có thể giúp bạn vừa đọc vừa nghe không?
+  So do you want a quality channel that can help you read and listen at the same time?
 
 <!---
 truyenhay4you/truyenhay4you is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
